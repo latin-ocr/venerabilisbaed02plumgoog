@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./venerabilisbaed02plumgoog_0003.png"; bbox 0 0 2558 4718; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 365 2120 936 2209">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 365 2120 936 2209">
+     <span class='ocr_line' id='line_1_1' title="bbox 365 2120 936 2209; baseline -0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 365 2121 647 2209; x_wconf 78' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_2' title='bbox 667 2120 936 2205; x_wconf 85' lang='lat' dir='ltr'><strong>COLLEGE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 610 2560 692 2668">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 610 2560 692 2668">
+     <span class='ocr_line' id='line_1_2' title="bbox 614 2560 691 2646; baseline 0 -58"><span class='ocrx_word' id='word_1_3' title='bbox 614 2560 691 2646; x_wconf 45' lang='grc' dir='ltr'>«ΕΒΑ»</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 610 2634 692 2668; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 610 2634 692 2668; x_wconf 50' lang='grc' dir='ltr'>«π’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 349 2912 938 3035">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 349 2912 938 3035">
+     <span class='ocr_line' id='line_1_4' title="bbox 349 2912 938 3035; baseline 0.002 -39"><span class='ocrx_word' id='word_1_5' title='bbox 349 2912 645 3035; x_wconf 35' lang='grc' dir='ltr'>,[ΑΜΟΝΤ</span> <span class='ocrx_word' id='word_1_6' title='bbox 674 2914 938 3002; x_wconf 76' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 486 3810 827 3877">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 486 3810 827 3877">
+     <span class='ocr_line' id='line_1_5' title="bbox 486 3810 827 3877; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 486 3810 827 3877; x_wconf 75' lang='lat' dir='ltr'>TRANSFERRED</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 420 4067 891 4135">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 420 4067 891 4135">
+     <span class='ocr_line' id='line_1_6' title="bbox 420 4067 891 4135; baseline -0.002 -2"><span class='ocrx_word' id='word_1_8' title='bbox 420 4069 646 4134; x_wconf 80' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_9' title='bbox 672 4067 891 4135; x_wconf 86' lang='lat' dir='ltr'>COLLEGE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 541 4190 977 4353">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 541 4190 977 4353">
+     <span class='ocr_line' id='line_1_7' title="bbox 552 4190 760 4258; baseline 0.005 -2"><span class='ocrx_word' id='word_1_10' title='bbox 552 4190 760 4258; x_wconf 80' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 541 4264 977 4353; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 541 4264 977 4353; x_wconf 20' lang='lat' dir='ltr'><strong>K</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1284 4718">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1284 4718">
+     <span class='ocr_line' id='line_1_9' title="bbox 0 0 1284 4718; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1284 4718; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
